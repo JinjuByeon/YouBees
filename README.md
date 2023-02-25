@@ -49,11 +49,28 @@
 
 <details>
 <summary>회원가입</summary>
-<div markdown="1">       
+<div markdown="1">   
 
 ![freeEnroll](https://user-images.githubusercontent.com/114207524/221113214-bcd508f3-034d-44f8-a93d-93e782cfbe13.png)
 
 </div>
 </details>
+<details>
+<summary>커뮤니티</summary>
+<div markdown="1">   
 
+![board](https://user-images.githubusercontent.com/114207524/221113079-4a16f686-1c9c-4cd1-a3f6-9620e67ea4b7.png)
+
+</div>
+</details>
+<details>
+<summary>프리랜서 매칭</summary>
+<div markdown="1">   
+
+![freeList](https://user-images.githubusercontent.com/114207524/221113124-2af4f46f-c36c-45f7-a776-d5c3147e9b75.png)
+
+![profile](https://user-images.githubusercontent.com/114207524/221113177-1ad934ec-28fa-488a-bc26-b00314b554b5.png)
+
+</div>
+</details>
 
